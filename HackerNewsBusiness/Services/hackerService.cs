@@ -44,7 +44,42 @@ namespace hackerNewsBusiness.Services
         {
             using var client = new HttpClient();
             var response = await client.GetStringAsync($"https://hacker-news.firebaseio.com/v0/item/{storyId}.json");
-            return JsonConvert.DeserializeObject<Storymodel>(response);
+
+
+            
+            var apiResponse = JsonConvert.DeserializeObject<ApiIntermediateModel>(response);
+
+            var storyModel = new Storymodel
+            {
+               
+                title = apiResponse.title,
+                url = apiResponse.url,
+                postedby =  apiResponse.by,
+                time =  apiResponse.time,
+                score =  apiResponse.score,
+                commentcount =  apiResponse.descendants
+
+               
+            };
+
+            return storyModel;
+          //  return JsonConvert.DeserializeObject<Storymodel>(response);
+        }
+
+        
+        public class ApiIntermediateModel
+        {
+            public string title { get; set; }
+            public string url { get; set; }
+
+            public string by { get; set; }
+
+            public string time { get; set; }
+
+            public string score { get; set; }
+
+            public string descendants { get; set; }
+           
         }
 
 

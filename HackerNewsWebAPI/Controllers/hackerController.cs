@@ -23,7 +23,7 @@ namespace TE_Admin.Controllers
         {
             _hackerService = heckerServices;
         }
-        [HttpPost]
+        [HttpGet]
         [Route("GetBestStory")]
         public async Task<IActionResult> GetBestStories()
         {

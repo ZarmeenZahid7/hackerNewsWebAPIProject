@@ -15,5 +15,7 @@ namespace hackerNewsBusiness.Models
         public string postedby { get; set; }
         public string time { get; set; }
         public string score { get; set; }
+
+        public string commentcount { get; set; }
     }    
 }
