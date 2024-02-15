@@ -76,7 +76,7 @@ namespace hackerNewsBusiness.Services
 
             public long time { get; set; }
 
-            public string score { get; set; }
+            public int score { get; set; }
 
             public string descendants { get; set; }
            
