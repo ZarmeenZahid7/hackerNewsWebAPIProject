@@ -55,7 +55,7 @@ namespace hackerNewsBusiness.Services
                 title = apiResponse.title,
                 url = apiResponse.url,
                 postedby =  apiResponse.by,
-                time =  apiResponse.time,
+                time = DateTimeOffset.FromUnixTimeSeconds(apiResponse.time).UtcDateTime,
                 score =  apiResponse.score,
                 commentcount =  apiResponse.descendants
 
@@ -74,7 +74,7 @@ namespace hackerNewsBusiness.Services
 
             public string by { get; set; }
 
-            public string time { get; set; }
+            public long time { get; set; }
 
             public string score { get; set; }
 

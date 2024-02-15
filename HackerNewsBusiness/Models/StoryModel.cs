@@ -13,7 +13,7 @@ namespace hackerNewsBusiness.Models
         public string title { get; set; }
         public string url { get; set; }
         public string postedby { get; set; }
-        public string time { get; set; }
+        public DateTime time { get; set; }
         public string score { get; set; }
 
         public string commentcount { get; set; }
