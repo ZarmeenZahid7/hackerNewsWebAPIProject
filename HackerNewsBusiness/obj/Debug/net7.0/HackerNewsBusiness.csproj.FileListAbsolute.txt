@@ -1,0 +1,12 @@
+C:\Users\z.zahid\source\repos\HackerNewsBusiness\bin\Debug\net7.0\HackerNewsBusiness.deps.json
+C:\Users\z.zahid\source\repos\HackerNewsBusiness\bin\Debug\net7.0\HackerNewsBusiness.dll
+C:\Users\z.zahid\source\repos\HackerNewsBusiness\bin\Debug\net7.0\HackerNewsBusiness.pdb
+C:\Users\z.zahid\source\repos\HackerNewsBusiness\obj\Debug\net7.0\HackerNewsBusiness.csproj.AssemblyReference.cache
+C:\Users\z.zahid\source\repos\HackerNewsBusiness\obj\Debug\net7.0\HackerNewsBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z.zahid\source\repos\HackerNewsBusiness\obj\Debug\net7.0\HackerNewsBusiness.AssemblyInfoInputs.cache
+C:\Users\z.zahid\source\repos\HackerNewsBusiness\obj\Debug\net7.0\HackerNewsBusiness.AssemblyInfo.cs
+C:\Users\z.zahid\source\repos\HackerNewsBusiness\obj\Debug\net7.0\HackerNewsBusiness.csproj.CoreCompileInputs.cache
+C:\Users\z.zahid\source\repos\HackerNewsBusiness\obj\Debug\net7.0\HackerNewsBusiness.dll
+C:\Users\z.zahid\source\repos\HackerNewsBusiness\obj\Debug\net7.0\refint\HackerNewsBusiness.dll
+C:\Users\z.zahid\source\repos\HackerNewsBusiness\obj\Debug\net7.0\HackerNewsBusiness.pdb
+C:\Users\z.zahid\source\repos\HackerNewsBusiness\obj\Debug\net7.0\ref\HackerNewsBusiness.dll

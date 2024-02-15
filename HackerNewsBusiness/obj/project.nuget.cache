@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5vxcd9Fto/NZ5uRv9ogBisgZBnGGmPJBC5FzRMEqDbWXxALkiw5SgwEYOsMSpP425LGo+hyOFi0gHGYahXwaTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\z.zahid\\Desktop\\bamboo\\hackerNewsWebAPI\\HackerNewsBusiness\\HackerNewsBusiness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\z.zahid\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\z.zahid\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\z.zahid\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\z.zahid\\.nuget\\packages\\nlog\\5.2.8\\nlog.5.2.8.nupkg.sha512"
+  ],
+  "logs": []
+}
